@@ -1,0 +1,19 @@
+{
+    "className": "Part",
+    "children": [
+        {
+            "name": "BouncePadConfig",
+            "className": "Configuration",
+            "properties": {
+                "Tags": ["BouncePadConfig"],
+                "Attributes": {
+                    "BounceHeight": {"Float64": 20},
+                    "Enabled": {"Bool": true}
+                }
+            }
+        }
+    ],
+    "properties": {
+        "Anchored": true
+    }
+}

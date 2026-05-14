@@ -1,0 +1,14 @@
+[package]
+name = "mariochao/container-mechanic"
+description = "CollectionService wrapper for creating container-based mechanisms with custom configs."
+
+version = "0.0.0"
+license = "MIT"
+authors = ["Mario Chao"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/MarioChao/container-mechanic"
+
+exclude = ["TestPlace"]
+
+[dependencies]

@@ -1,0 +1,29 @@
+{
+  "name": "container-mechanic",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Modules": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+
+        "ContainerMechanic": {
+          "$path": "src/ContainerMechanic"
+        }
+      },
+
+      "Scripts": {
+        "$path": "src/TestPlace/ReplicatedStorage/Scripts",
+        "$ignoreUnknownInstances": true
+      }
+    },
+
+    "Workspace": {
+      "_Instances": {
+        "$path": "src/TestPlace/Workspace/_Instances",
+        "$ignoreUnknownInstances": true
+      }
+    }
+  }
+}
