@@ -63,4 +63,8 @@ mechanic:run()
 ## Credits
 
 Similar modules:
+- sleitnick's [Component](https://sleitnick.github.io/RbxUtil/api/Component/)
+- sleitnick's [Observers](https://sleitnick.github.io/RbxObservers/)
 - KashTheKing's [Mechanic](https://wally.run/package/kashtheking/mechanic)
+- yawnTooMuch's [Stamp](https://devforum.roblox.com/t/stamp-tag-driven-entity-component-systemecs/4587575)
+- jaeyDev's [Wrapper](https://devforum.roblox.com/t/wrapper-manage-object-oriented-classes-based-off-tags/4053943)
